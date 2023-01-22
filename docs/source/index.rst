@@ -19,6 +19,7 @@ Contents
 .. toctree::
 
    home
+   esp32-s3_cam
    usage
    api
    about
